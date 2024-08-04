@@ -1,0 +1,6 @@
+[submodule "path/to/submodule"]
+	path = path/to/submodule
+	url = https://github.com/elna977/My-Information-app.git
+[submodule "My-Submodule"]
+	path = My-Submodule
+	url = https://github.com/elna977/My-Information-app.git
